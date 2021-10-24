@@ -1,1 +1,1 @@
-# Inception-of-Things
+# ft_inception
